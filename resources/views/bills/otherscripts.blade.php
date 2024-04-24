@@ -1,0 +1,1 @@
+<script src="{{asset('billdep//scripts/jquery.fittext.js')}}" type="text/javascript" ></script>

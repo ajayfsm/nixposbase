@@ -1,0 +1,10 @@
+<script src="{{asset('billdep/scripts/global.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/menuItem.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/schema.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/lf-pureservice.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/item_model.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/item_helper.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/ticket_model.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/ticket_helper.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/order/order_model.js')}}" type="text/javascript"></script>
+  <script src="{{asset('billdep/scripts/order/order_helper.js')}}" type="text/javascript"></script>

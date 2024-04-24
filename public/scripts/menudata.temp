@@ -1,0 +1,50 @@
+
+var data = {
+    "A1":{"price":180,"name":"crostini melanzana",
+	  "modifiers":{
+	      "extras":
+	      {
+		  "chicken":{"name":"chicken","price":100,"maxselect":3},
+		  "lamb":{"name":"lamb","price":150,"maxselect":3,"minselect":0},
+		  "fish":{"name":"fish","price":200,"maxselect":3,"minselect":0},
+		  "veg":{"name":"veg" ,"price":-75,"maxselect":3,"minselect":0}
+	      },
+
+	      "pasta":
+	      {
+		  "spaghetti":{"name":"spaghetti","price":null,"maxselect":1,"minselect":0},
+		  "fusili":{"name":"fusili","price":null,"maxselect":1,"minselect":0},
+		  "tagatelle":{"name":"tagatelle","price":null,"maxselect":1,"minselect":0}
+	      }
+	      
+	  }
+	 },
+    "A2":{"price":190,"name":"crostini al forno"},
+    "A3":{"price":210,"name":"crostini assortiti"},
+    "A4":{"price":140,"name":"bruschetta pomodoro"},
+    "A5":{"price":70,"name":"pane aglio"},
+    "A6":{"price":90,"name":"pane aglio e formaggio"},
+    "A7":{"price":120,"name":"pane aglio e verdure"},
+    "A8":{"price":220,"name":"insalata caprese"},
+    "A9":{"price":220,"name":"peperoni arrosto"},
+    "A10":{"price":300,"name":"funghi trifolati"},
+
+    "A11":{"price":300,"name":"crostini con pollo e formaggio"},
+
+    "A14":{"price":300,"name":"carpaccio di salmone"},
+    "A15":{"price":300,"name":"antipasto del maiale"},
+    "A16":{"price":300,"name":"pollo e limone"},
+
+    "A18":{"price":300,"name":"crostini con tonno"},
+
+    "A20":{"price":300,"name":"crostini con uova"},
+    "A21":{"price":300,"name":"salsa spinaci"},
+    "A22":{"price":300,"name":"salsa jalapeno"},
+
+    "A23":{"price":300,"name":"funghi ripieni di verdure"},
+    "A24":{"price":300,"name":"funghi ripieni di pollo"},
+    "A25":{"price":195,"name":"crostini verdure"},
+
+    "A30":{"price":300,"name":"verdure saltate"},
+    "A31":{"price":300,"name":"broccoli strascinati"}
+}
